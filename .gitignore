@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Backup files
+*.swp
+*.bak
+*.tmp
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
